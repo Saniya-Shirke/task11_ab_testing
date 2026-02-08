@@ -1,0 +1,8 @@
+A/B Testing Final Recommendation
+
+The Test (Ad) group has a higher conversion rate than the Control (PSA) group.
+Statistical testing shows the difference is significant (p-value < 0.05).
+The 95% confidence interval does not include zero, confirming reliability.
+
+Recommendation:
+Roll out the Test version, while monitoring business cost and ROI.
